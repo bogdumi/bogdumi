@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 I prefer to be contacted through [LinkedIn](https://www.linkedin.com/in/bogdumi/), but you can also [email me](mailto:github@bogdumi.dev) directly.
 
 ## CV
+
+You can view or download my CV [here](https://www.bogdumi.dev/docs/BogdanDumitrescuCV.pdf).
+
+Are you looking to print my CV? You can find a black & white version [here](https://www.bogdumi.dev/docs/BogdanDumitrescuCVBW.pdf).
