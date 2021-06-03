@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ## Contact
 
+I prefer to be contacted through [LinkedIn](https://www.linkedin.com/in/bogdumi/), but you can also [email me](mailto:github@bogdumi.dev) directly.
+
 ## CV
