@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Stats
+
+## [Personal Website](https://www.bogdumi.dev)
+
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=purple&up_message=online&url=https%3A%2F%2Fwww.bogdumi.dev)
+
+## Stats
 ![Dumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdumi&count_private=true&show_icons=true&theme=synthwave)
 
-## Top Languages 
+### Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdumi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-## Personal website
-
-![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=purple&up_message=up&url=https%3A%2F%2Fwww.bogdumi.dev)
+sage=down&style=for-the-badge&up_color=purple&up_message=up&url=https%3A%2F%2Fwww.bogdumi.dev)
 
 ## About
 
