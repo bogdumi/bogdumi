@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there
-# I'm Bogdan Dumitrescu
+![Dumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdumi&count_private=true&show_icons=true&theme=synthwave)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdumi&count_private=true&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## About
 
