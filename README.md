@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdumi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-sage=down&style=for-the-badge&up_color=purple&up_message=up&url=https%3A%2F%2Fwww.bogdumi.dev)
 
 ## About
 
