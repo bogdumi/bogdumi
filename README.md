@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## [Personal Website](https://www.bogdumi.dev)
 
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=purple&up_message=online&url=https%3A%2F%2Fwww.bogdumi.dev)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=purple&up_message=online&url=https%3A%2F%2Fwww.bogdumi.dev)](https://www.bogdumi.dev)
 
 ## Stats
 ![Dumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bogdumi&count_private=true&show_icons=true&theme=synthwave)
