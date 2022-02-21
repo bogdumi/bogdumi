@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Personal Website Statushttps://www.bogdumi.dev
+## Personal Website Status
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=purple&up_message=online&url=https%3A%2F%2Fwww.bogdumi.dev)](https://www.bogdumi.dev)
 
