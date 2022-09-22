@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## About
 
-I am currently in my fourth year on a MEng Computer Science course at the University of Bristol. I am always looking to develop my problem-solving and programming skills, and to contribute to solving digital challenges in technology. I also enjoy film and digital photography, and I like tinkering with various objects.
+I am currently a Technology Analyst at Morgan Stanley. I am always looking to develop my problem-solving and programming skills, and to contribute to solving digital challenges in technology. I also enjoy film and digital photography, and I like tinkering with various objects.
 
 ## Contact
 
