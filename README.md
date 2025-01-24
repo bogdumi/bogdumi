@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## About
 
-I am currently a Technology Associate at Morgan Stanley. I am always looking to develop my problem-solving and programming skills, and to contribute to solving digital challenges in technology. I also enjoy film and digital photography, and I like tinkering with various objects.
+I am currently an SDE II at Morgan Stanley. I am always looking to develop my problem-solving and programming skills, and to contribute to solving digital challenges in technology. I also enjoy film and digital photography, and I like tinkering with various bits and bobs.
 
 ## Contact
 
